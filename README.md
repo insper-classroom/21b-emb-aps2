@@ -12,7 +12,6 @@ Integrantes:
 
 - Nome 
 - Nome
-- Nome
 
 Nome da marca:
 
@@ -26,22 +25,30 @@ Descricão da primeira proposta da interface:
 
 - Imagem da proposta
 - Imagem da proposta no LCD
-- Vídeo
+- Vídeo explicando a interface
 
 ### Proposta UX 2 - B
 
-Descricão da primeira proposta da interface:
+Detalhes da segunda interação da proposta de interface:
+
+<!-- 
+ Adicionar texto descrevendo a evolução 
+ da interface
+-->
 
 - Imagem da proposta
 - Imagem da proposta no LCD
 - Vídeo
 
-### Proposta UX 1 - C
+### Proposta UX 3 - C
 
-Descricão da primeira proposta da interface:
+Detalhes da terceira interação da proposta de interface:
+
+<!-- 
+ Adicionar texto descrevendo a evolução 
+ da interface
+-->
 
 - Imagem da proposta
 - Imagem da proposta no LCD
-- Vídeo
-
-
+- Vídeo 
